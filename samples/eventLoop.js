@@ -1,13 +1,5 @@
+// This will log the numbers 1-5 but in what order?
 let print = console.log
-
-
-
-
-
-
-
-
-
 
 
 setTimeout(() => {
